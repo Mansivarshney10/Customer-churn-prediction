@@ -88,4 +88,4 @@ Hyperparameter optimization was performed using **Optuna** to improve the perfor
 
 ### 5. Model Explainability
 
-Model predictions were interpreted using **SHAP (SH
+Model predictions were interpreted using **SHAP**
